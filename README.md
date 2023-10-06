@@ -1,4 +1,4 @@
-# Housing_Price_Predictions
+# Housing Price Predictions
 
 ## Project Overview:
 ### The goal of this project is to build a machine-learning model that predicts housing prices based on various features such as square footage, number of bedrooms, location, and other relevant factors. The project will involve data collection, preprocessing, model training, evaluation, and deployment. We will use Scikit-learn for machine learning, Python Pandas for data manipulation, and Matplotlib for data visualization.
@@ -42,7 +42,8 @@
 #### Project report
 #### Project presentation
 #### Deployed model (if applicable)
-#### Risks and Challenges:
+
+### Risks and Challenges:
 #### Availability and quality of the dataset
 #### Model performance may not meet expectations
 #### Time constraints for fine-tuning and deployment
