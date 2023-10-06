@@ -36,6 +36,7 @@
 #### Python Pandas for data manipulation
 #### Matplotlib for data visualization
 #### GitHub or another version control platform for project management
+https://catalog.data.gov/dataset/real-estate-sales-2001-2018/resource/f7cb94d8-283c-476f-a966-cc8c9e1308b4
 
 ### Deliverables:
 #### Jupyter Notebook containing code and documentation
