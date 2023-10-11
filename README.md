@@ -48,5 +48,8 @@
 #### Model performance may not meet expectations
 #### Time constraints for fine-tuning and deployment
 
+### Limitations:
+#### Impact of Outdated Remodeling: An important factor contributing to potential errors in price estimation is the condition of house remodeling. Outdated furnishings and previous renovation status can significantly influence pricing, even in cases where other factors such as location, acreage, number of bedrooms, and bathrooms remain constant.
+
 ### Conclusion:
 #### This project plan outlines the steps and timeline for a Housing Price Prediction project specifically focused on Rhode Island using machine learning. It's crucial to follow the plan rigorously, document each step thoroughly, and adapt as needed based on the project's progress and challenges encountered along the way.
