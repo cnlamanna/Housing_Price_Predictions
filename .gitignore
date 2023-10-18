@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints or saved models
+models/
+
+# Data files that don't need to be versioned (if you have separate data files)
+data/
+
+# System-specific or editor-specific files
+.vscode/
+.idea/
+
+# Local configuration files
+config.json
+
+# Output or result files (specific to your project)
+output/
+
+# Any sensitive or private information (e.g., API keys)
+secrets.json
+
+# Environment-specific files (e.g., .env)
+.env
+
+# Ignore database
+mydatabase.db
