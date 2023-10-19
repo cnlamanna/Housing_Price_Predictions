@@ -39,7 +39,7 @@ Python Pandas for data manipulation.
 Matplotlib for data visualization.
 GitHub or a version control platform for project management.
 Data Source:
-USA Real Estate Dataset on Kaggle
+[USA Real Estate Dataset on Kaggle](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset)
 
 ### Deliverables:
 
