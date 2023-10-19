@@ -59,7 +59,7 @@ Time constraints for fine-tuning, model deployment, and project completion.
 1. **Impact of Outdated Remodeling:** The condition of house remodeling can significantly affect price estimation, even when other factors remain constant. This model does not account for variations in the current condition of houses, potentially leading to price estimation errors.
 
 2. **Exclusion of Foreclosure and Bank-Owned Properties:** The dataset used for this project may not include data on foreclosure properties and bank-owned real estate, which can have distinct pricing dynamics. Therefore, the model's predictions may not be applicable to these property types.
-3. 
+
 ### Conclusion:
 This project plan provides a structured approach for developing a Housing Price Prediction model tailored to Rhode Island using machine learning techniques. It is essential to adhere to this plan rigorously, document each step meticulously, and adapt as needed based on project progress and challenges encountered throughout the process. The ultimate goal is to create a reliable model that offers valuable insights for housing price predictions specific to Rhode Island.
 
