@@ -82,16 +82,15 @@ We also conducted a comprehensive analysis of feature importances, with the numb
 
 Incorporated into our analysis were various visual aids, each offering unique insights:
 
-1. **Correlation Matrix:** This visualization illuminated the strength and nature of associations within the dataset. Deep red hues indicated robust positive correlations, while deep blue shades signified negative relationships. Notable correlations were found between variables such as bedrooms and house size, bathrooms and house size, bathrooms and price, and bedrooms and bathrooms.
+1. **Correlation Matrix**: This visualization illuminated the strength and nature of associations within the dataset. Deep red hues indicated robust positive correlations, while deep blue shades signified negative relationships. Notable correlations were found between variables such as bedrooms and house size, bathrooms and house size, bathrooms and price, and bedrooms and bathrooms.
 
-2. **Regression Plot:** Our regression plot showcased a strong alignment between predicted and actual prices, indicating minimal prediction errors.
+2. **Regression Plot**: Our regression plot showcased a strong alignment between predicted and actual prices, indicating minimal prediction errors.
 
-3. **Violin Plot:** A violin plot offered a clear depiction of the price range for the 20 most frequently occurring zip codes, allowing for a nuanced understanding of geographic pricing dynamics.
+3. **Violin Plot**: A violin plot offered a clear depiction of the price range for the 20 most frequently occurring zip codes, allowing for a nuanced understanding of geographic pricing dynamics.
 
-4. **Distribution Histogram Plot:** This visualization revealed a strong correlation between actual and predicted prices, underscoring the accuracy of our predictive models.
+4. **Distribution Histogram Plot**: This visualization revealed a strong correlation between actual and predicted prices, underscoring the accuracy of our predictive models.
 
 These visual representations added depth and clarity to our analytical findings, enhancing our understanding of the dataset and the underlying factors influencing housing prices.
 
 In summary, our project encapsulates a rigorous journey from data acquisition and exploration to model development, culminating in the generation of valuable insights. The profound impact of zip codes on housing prices, the precision of our predictive models, and the strength of inter-variable correlations significantly contribute to our comprehensive data analysis.
 
-Thank you for your attention, and we look forward to further discussions and insights arising from this analysis.![image](https://github.com/cnlamanna/Housing_Price_Predictions/assets/131494138/a7455901-a695-4ff1-be7f-4912db4dfb3d)
