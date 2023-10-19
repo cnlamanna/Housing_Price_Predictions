@@ -57,7 +57,7 @@
 # Analysis
 Our project embarked with a meticulous data acquisition process, aimed at gathering and preparing data while upholding the highest standards of quality and integrity. We procured an extensive dataset through Kaggle, sourced directly from realtor.com, which served as a comprehensive wellspring of the data required for our investigation.
 
-**Data Exploration**
+#### Data Exploration
 
 Upon importing the dataset into our SQL environment, we embarked on an in-depth examination of its characteristics. This exploratory phase involved the analysis of data distribution, pattern identification, and the identification of potential outliers. These qualitative insights laid the groundwork for subsequent quantitative analysis.
 
@@ -65,7 +65,7 @@ Upon transitioning the data into Python, we initiated the data cleaning process 
 
 Three outliers, characterized by an unusually high number of bedrooms and bathrooms (32), were identified. Notably, these outliers exhibited correlated pricing, leading to their retention in the dataset. The dataset was then partitioned into features (bedrooms, bathrooms, acreage, zip code, and house size) and the target variable (price). Subsequently, data normalization and standardization techniques were applied to facilitate model training and testing.
 
-**Model Development**
+#### Model Development
 
 Building upon our comprehensive data exploration, we transitioned into the model development phase, integrating advanced analytical methodologies encompassing machine learning and statistical modeling. It was within this stage that we designed predictive models capable of generating invaluable insights.
 
@@ -78,7 +78,7 @@ Subsequently, we embarked on another endeavor, this time employing a Random Fore
 
 We also conducted a comprehensive analysis of feature importances, with the number of bathrooms emerging as the most influential (0.437), followed by acreage (0.191), zip code (0.118), and house size (0.165). Bedrooms exhibited the lowest importance (0.089).
 
-**Visuals**
+#### Visuals
 
 Incorporated into our analysis were various visual aids, each offering unique insights:
 
